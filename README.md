@@ -106,6 +106,8 @@ server {
 ### docker-compose 配置参考
 
 ```
+version: '3'
+
 services:
   excalidraw:
     image: excalidraw:latest
